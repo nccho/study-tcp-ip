@@ -29,6 +29,8 @@ TCP/IP는 구성 프로토콜 체계를 갖추기 위해 고유의 4계층 구�
 - 인터넷 계층: 논리적 장비 주소 지정, 데이터 패키징, 라우팅 작업 수행
 - 네트워크 인터페이스 계층: 로컬 네트워크에 접근하기 위한 인터페이스 역활
 
+![TCP/IP Layer!](http://www.tcpipguide.com/free/diagrams/tcpiplayers.png "TCP/IP Layer")
+
 ![TCP IP Protocol!](http://www.tcpipguide.com/free/diagrams/tcpipprotocols.png "TCP/IP Protocol")
 
 
